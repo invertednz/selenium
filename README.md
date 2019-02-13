@@ -1,6 +1,6 @@
 # Selenium git repositories
 
-The authorative master repository of selenium is at https://code.google.com/p/selenium/. It also mirrored on
+Another change The authorative master repository of selenium is at https://code.google.com/p/selenium/. It also mirrored on
 GitHub, which may be found at https://github.com/SeleniumHQ/selenium.
 
 # Pull requests
